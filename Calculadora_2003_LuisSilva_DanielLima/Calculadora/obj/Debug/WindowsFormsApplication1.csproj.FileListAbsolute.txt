@@ -1,0 +1,63 @@
+C:\Users\seeduc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\seeduc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\seeduc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\seeduc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\seeduc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calculadora.resources
+C:\Users\seeduc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\seeduc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\seeduc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\seeduc\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Microsoft Visual Studio\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Microsoft Visual Studio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Microsoft Visual Studio\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Microsoft Visual Studio\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Microsoft Visual Studio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Microsoft Visual Studio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calculadora.resources
+E:\Microsoft Visual Studio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Microsoft Visual Studio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Microsoft Visual Studio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\talita.santos\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\talita.santos\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\talita.santos\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\talita.santos\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\talita.santos\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\talita.santos\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\talita.santos\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calculadora.resources
+C:\Users\talita.santos\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\talita.santos\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calculadora.resources
+F:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\seeduc\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\seeduc\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\seeduc\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\seeduc\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\seeduc\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\seeduc\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\seeduc\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calculadora.resources
+C:\Users\seeduc\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\seeduc\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calculadora.resources
+E:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Microsoft Visual Studio\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Fiscal\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Fiscal\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Fiscal\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Fiscal\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Fiscal\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Fiscal\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Fiscal\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calculadora.resources
+C:\Users\Fiscal\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Fiscal\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
